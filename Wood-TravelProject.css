@@ -1,0 +1,42 @@
+/*
+* Julia Wood
+* October 29, 2018
+* Panda Travel Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+body {
+    background-color: lightyellow;
+    color: black;
+    font-family: "courier new";
+} 
+
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+a:active {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+a:focus {
+    color: deeppink;
+    text-decoration: underline;
+}
